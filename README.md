@@ -25,7 +25,7 @@ We began with data preparation that included removing unwanted data and characte
 Graph 1 suggests movies containing action, adventure, fantasy, and sci-fi genres are most profitable.
 However, data was limited and may not be accurate indicator.
 
-![first_graph(../images/graph_1.png)
+![first_graph](../images/graph_1.png)
 
 
 ## Conclusions
