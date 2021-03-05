@@ -25,11 +25,18 @@ We began with data preparation that included removing unwanted data and characte
 
 ## Results
 
-Our data analysis suggests movies containing action, adventure, fantasy, and sci-fi genres are most profitable.
-
 ![first_graph](./images/graph_1.png)
 
+Our data analysis suggests movies containing action, adventure, fantasy, and sci-fi genres are most profitable.
+
+![second_graph](./images/graph_2.png)
+
 This analysis shows that when looking to generate a combination of the highest profits and the highest ratings consider the directors Joss Whedon, Tim Miller, Peter Jackson, or Christopher Nolan.
+
+![third_graph](./images/graph_3.png)
+
+For this graph we categorized each movie into a budget range and charted each groups average rating.
+
 However, data was limited and may not be an accurate indicator. Because our data only included movies within the years ranged 2010-2019 directors and genres were often limited to just one movie.
 
 ## Conclusions
