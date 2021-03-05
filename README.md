@@ -8,9 +8,12 @@ This project is intended to display an understanding of the material covered in 
 
 ## Business Problem
 Comptetitors Apple, Amazon and Netflix all either produce or procure their own original content. Microsoft looks to capitalize on their ability to distribute digital media and has decided to join the industry by starting their own movie studio. Microsoft has asked the students of Flatiron School to perform a data analysis and advise them on how to create a successful film studio. First we considered what it is that defines a successful movie and concluded it to be a movies longevity, it's reception, and it's profit. We therefore determined these to be most revealing question.
+
+***
 Which genres produce the most profit?
 Which directors are best to work with?
 Is there a relationship between the money invested in production and the rating of a movie?
+***
 
 ## Data
 
@@ -22,11 +25,12 @@ We began with data preparation that included removing unwanted data and characte
 
 ## Results
 
-Graph 1 suggests movies containing action, adventure, fantasy, and sci-fi genres are most profitable.
-However, data was limited and may not be accurate indicator.
+Our data analysis suggests movies containing action, adventure, fantasy, and sci-fi genres are most profitable.
 
-![first_graph](../images/graph_1.png)
+![first_graph](./images/graph_1.png)
 
+This analysis shows that when looking to generate a combination of the highest profits and the highest ratings consider the directors Joss Whedon, Tim Miller, Peter Jackson, or Christopher Nolan.
+However, data was limited and may not be an accurate indicator. Because our data only included movies within the years ranged 2010-2019 directors and genres were often limited to just one movie.
 
 ## Conclusions
 
