@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is intended to display an understanding of the material covered in Phase 1 of the Flatiron School's Part Time Data Science program. Students were given a business problem within which the Microsoft Corporation is opening their own movie studio and needs guidance for successful production. Data supplied from multiple online movie databases is read, cleaned, and modeled to provide insight into which movie attributes generate the most profit and the highest ratings. The analysis performed in this project concludes that Microsoft should begin their production with movies containing the genres: action, adventure, fantasy, and sci-fi, that they should begin their process with talented directors: Tim Miller, Peter Jackson, or Christopher Nolan, and that 
+This project is intended to display an understanding of the material covered in Phase 1 of the Flatiron School's Part Time Data Science program. Students were given a business problem within which the Microsoft Corporation is opening their own movie studio and needs guidance for successful production. Data supplied from multiple online movie databases is read, cleaned, and modeled to provide insight into which movie attributes generate the most profit and the highest ratings. The analysis performed in this project concludes that Microsoft should begin their production with movies containing the genres: action, adventure, fantasy, and sci-fi, that they should begin their process with talented directors: Tim Miller, Peter Jackson, or Christopher Nolan, and that they should budget their production within the 176 to 200 million dollar range.
 
 
 ## Business Problem
@@ -41,8 +41,8 @@ For this graph we categorized each movie into a budget range and charted each gr
 However, data was limited and may not be an accurate indicator. Because our data only included movies within the years ranged 2010-2019 directors and genres were often limited to just one movie.
 
 ## Conclusions
-Based on our data analysis we guide Microsoft to produce movies with a target budget of x. In addition, we advise Microsoft select scripts within the action, adventure, fantasy and sci-fi genres. Finally, plots graphed on the axis average ratings and average worldwide profit displayed that * in these fields are Joss Whedon, Christopher Nolan 
+Based on our data analysis we guide Microsoft to produce movies with a target budget of x. In addition, we advise Microsoft select scripts within the action, adventure, fantasy and sci-fi genres. Finally, plots graphed on the axis' average ratings and average worldwide profit displayed that the best grossing directors within these criterion are Joss Whedon, Christopher Nolan, Tim Miller, and Peter Jackson. 
 
-One issue with analysis was movies not having a primary genre which them difficult to categorize
+One issue with analysis was movies not having a primary genre, which made them difficult to categorize.
 Bringing in more data via API or webscraping could be more useful. Further analysis include data that provides information about how often 
 movies are rewatched and whether they are franchise worthy.
