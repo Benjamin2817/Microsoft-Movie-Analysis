@@ -3,7 +3,7 @@
 **Author**: Benjamin Dean
 
 ## Overview
-Appetite for content is insatiable. And so, big technology has made major investments in the film industry. Apple, Amazon, and Netflix all either produce or procure their own original content. Now, Microsoft Corporation looks to capitalize on their ability to distribute digital media and has decided to join the industry by starting their own movie studio. However, despite their experience and expertise in so many industries, Microsoft has reached out for advice on how to begin producing successful movies. This project focuses on the application of the data science process to perform general analyses on movie data.
+Appetite for content has become insatiable. And so, big technology has made major investments in the film industry. Apple, Amazon, and Netflix all either produce or procure their own original content. Now, Microsoft Corporation looks to capitalize on their ability to distribute digital media and has decided to join the industry by starting their own movie studio. However, despite their experience and expertise in so many industries, Microsoft has reached out for advice on how to begin producing successful movies. This project focuses on the application of the data science process to perform general analyses on movie data.
 
 
 ## Business Problem
@@ -42,5 +42,4 @@ For this graph I categorized each movie into a budget range and charted each gro
 Based on the analysis described in this project, I guide Microsoft to produce movies with a target budget of $176mm. In addition, we advise Microsoft select scripts within the action, adventure, fantasy and sci-fi genres. Finally, plots graphed on the axis' average ratings and average worldwide profit displayed that the best grossing directors within these criterion are Joss Whedon, Christopher Nolan, Tim Miller, and Peter Jackson. 
 
 ## Next Steps
-Bringing in more data via API or webscraping could be more useful. Further analysis could include data that provides information about how often 
-movies are rewatched and whether they are franchise worthy. However, data was limited and may not be an accurate indicator. Because our data only included movies within the years ranged 2010-2019 directors and genres were often limited to just one movie.
+Bringing in more data via API or webscraping could be more useful. Further analysis could include data that provides information about how often movies are rewatched and whether they are franchise worthy. However, data was limited and may not be an accurate indicator. Because our data only included movies within the years ranged 2010-2019 directors and genres were often limited to just one movie.
